@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Golda-G
 - 👀 I’m interested in front-end development 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning JavaScript and React
 - 💞️ I’m looking to find a study and accountability buddy 
 - 📫 How to reach me goldagatsey@gmail.com
 
